@@ -1,0 +1,4 @@
+let nombre = "Anastasia"
+let div1=document.getElementById("div1")
+div1.innerHTML= `
+<p>Hola me llamo ${nombre} </p>`
